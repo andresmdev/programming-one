@@ -66,7 +66,8 @@ else {
 ```
 Esta estructura compuesta es utilizada cuando queremos indicar otro camino, en pocas palabras si la condicion no se cumple en el `if` entonces va para el `else`
 ```cpp
-int edad = 15
+int edad = 15;
+
 if(edad >= 18) {
   cout << "Mayor de edad";
 }

@@ -6,6 +6,6 @@ main() {
 	int nota = 15;
 
 	if(nota >= 10 && nota <= 20) {
-		cout << "Aprobado"; 
+		cout << "Aprobado" << endl; 
 	}
 }
