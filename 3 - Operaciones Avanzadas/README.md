@@ -3,6 +3,10 @@
 En esta clase veremos las Operaciones matemáticas avanzadas 🤓
 
 PD: No es nada complicado 😅
+## Math.h
+Es un archivo de cabecera de la librería estándar del lenguaje de programación C diseñado para operaciones matemáticas básicas. Muchas de sus funciones incluyen el uso de números en coma flotante. C++ también implementa estas funciones por razones de compatibilidad y las declara en la cabecera cmath.
+
+👀 Todas las funciones en las que participan ángulos toman y devuelven radianes.
 
 ## Funciones
 En la siguiente tabla colocare las funciones más utilizadas por los estudiantes y la mayoría de los ejercicios matemáticos.
