@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio de C++ 
 
-Aquí encotraras toda la información de C++ para que aprendas a programar en este lenguaje. 👨‍🏫
+Aquí encotraras toda la información basica del leguanje para que aprendas a usarlo. 👨‍🏫
 
 ## Introducción
 C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido.
