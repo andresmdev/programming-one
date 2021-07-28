@@ -25,7 +25,7 @@ switch(variable) {
 ```
 Como se puede observar su estructura es muy sencilla y facil de trabajar, pero tenemos que tener cuidado con el valor de los `case` ya que solo acepta tipo `int`
 
-El uso del default no es obligatorio pero las buenas practicas indican que se debe utilizar ya que nos indica que si el valor introducido no pertenece a ningun `case` entonce entrara al `default` y de esa manera podemos indicarle al usuario que se ha equivocado de opción 
+El uso del default no es obligatorio pero las buenas practicas indican que se debe utilizar ya que nos indica que si el valor introducido no pertenece a ningun `case` por lo tanto entrara al `default` y de esa manera podemos indicarle al usuario que se ha equivocado de opción 
 
 Ejemplo
 
