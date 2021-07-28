@@ -2,7 +2,7 @@
 
 En esta clase veremos el switch y como trabajarlos
 
-El switch forma parte de las estrucuta de decision o condicionales, pero en el caso del switch el trabaja con casos veamos su estructura. 
+El switch forma parte de las estrucuta de decisión o condicionales, pero en el caso del switch el trabaja con casos veamos su estructura. 
 
 ```cpp
 switch(variable) {
