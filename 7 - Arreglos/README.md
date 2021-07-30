@@ -6,7 +6,7 @@ Los vectores o arrays o arreglos de una dimensión (como los quieras llamar), so
 
 ## Estructura
 
-![Drag Racing](assets/representacion.jpeg)
+![vector](assets/representacion.jpeg)
 
 En la imagen podemos observar como es la estructura de los arreglos, estos están compuesto por cada espacio que es donde se almacenara dicho valor y cada valor tendrá un índice que lo acompaña.
 
