@@ -8,7 +8,7 @@ Los vectores o arrays o arreglos de una dimensión (como los quieras llamar), so
 
 ![Drag Racing](assets/representacion.jpeg)
 
-En la imagen podemos observar como es la estructura de los arreglos, estos estan compuesto por cada espacio que es donde se almacenara dicho valor y cada valor tendra un indice que lo acompaña. 
+En la imagen podemos observar como es la estructura de los arreglos, estos están compuesto por cada espacio que es donde se almacenara dicho valor y cada valor tendrá un índice que lo acompaña.
 
 👀 Todo arreglo inicia en **0**
 
@@ -22,7 +22,7 @@ int arreglo[4]; //arreglo definido
 
 **Respuesta:** La longitud es de 6
 
-**Pregunta:** Cual es el indice maximo?
+**Pregunta:** Cual es el índice máximo?
 
 **Respuesta:** 5.
 
@@ -43,7 +43,8 @@ cout << "indice 5: " << vector[5]; //output: 7
 
 Para obtener los valores solo hay que indicarle el indice entre los corchetes `[]` y de esa forma obtendremos el valor.
 
-Veamos un ejemplo de como insertar los valores en el arreglo
+Veamos un ejemplo de cómo insertar los valores en el arreglo.
+
 ```cpp
 int vector[2];
 
@@ -86,7 +87,6 @@ for(int i=0; i<6; i++) {
   cin >> vector[i];
 }
 ```
-
 En caso que quisieramos trabajar con arreglos de manera dinamica podemos definirlo despues de saber la cantidad de elementos necesitamos.
 
 ```cpp
@@ -102,7 +102,6 @@ for(int i=0; i<index; i++) {
   cin >> vector[i];
 }
 ```
-
 Para finalizar, si queremos actualizar algun valor solo debemos indicar la posicion y pasar el valor nuevo.
 
 ```cpp
