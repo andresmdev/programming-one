@@ -73,7 +73,7 @@ for(int i = 0; i<5; i++) {
 //ouput: Index[0]: 3
 //ouput: Index[1]: 5
 //ouput: Index[2]: 0
-//ouput: Index[3]: 5
+//ouput: Index[3]: 6
 //ouput: Index[4]: 9
 ```
 
