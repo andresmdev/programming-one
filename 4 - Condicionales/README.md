@@ -12,7 +12,7 @@ if(condición) {
 
 }
 ```
-El codigo que podemos observar es la estuctura de un condicional en este caso usamos el operador `if` y dentro de los parentesis colocaremos la condicion.
+El código que podemos observar es la estuctura de un condicional en este caso usamos el operador `if` y dentro de los parentesis colocaremos la condicion.
 
 Pero antes de continuar debemos conocer cuales son los operadores relacionales y lógicos que son los que nos permitirán realizar todo tipo de condiciones en nuestros programas.
 
