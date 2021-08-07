@@ -5,7 +5,7 @@ En esta clase veremos las entradas y salidas de datos.
 Antes de empezar veremos primeros que son los comentarios.
 
 ## Comentarios
-Los comentarios son lineas de codigo que no son tomadas en cuentas por el compilador y sirven para documentar o explicar un fragmento de un codigo.
+Los comentarios son lineas de código que no son tomadas en cuentas por el compilador y sirven para documentar o explicar un fragmento de un código.
 
 ```cpp
 //Esto es una linea de comentario
