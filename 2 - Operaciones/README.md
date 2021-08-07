@@ -28,7 +28,7 @@ main() {
 Para efectuar las operaciones solo se debe cambiar el operador.
 
 ## Otros Operadores
-Asi mismo tenemos una combinación de operadores que permitira efectura las operaciones muchisimos mas rapido y escribiendo menos codigo. Por ejemplo la combinacion de `+=`
+Asi mismo tenemos una combinación de operadores que permitira efectura las operaciones muchisimos mas rapido y escribiendo menos código. Por ejemplo la combinacion de `+=`
 
 ```cpp
 int a = 2;
